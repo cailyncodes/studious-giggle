@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
      "start": "node index.js"
-  }
+  },
   "dependencies": {
     "hapi": "^16.5.2"
   }
