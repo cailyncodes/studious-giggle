@@ -6,10 +6,13 @@
   "author": "Cole Hansen <cole_hansen@brown.edu>",
   "license": "MIT",
   "scripts": {
-     "start": "node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "hapi": "^16.5.2"
+    "handlebars": "^4.0.10",
+    "hapi": "^16.5.2",
+    "hoek": "^4.2.0",
+    "vision": "^4.1.1"
   },
   "engines": {
     "node": "^8.0.0"
