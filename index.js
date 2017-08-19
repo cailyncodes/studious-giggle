@@ -1,6 +1,6 @@
 const hapi = require('hapi');
 
-const server = new Hapi.Server();
+const server = new hapi.Server();
 const port = process.env.PORT;
 const host = "localhost";
 server.connection({ port, host });
