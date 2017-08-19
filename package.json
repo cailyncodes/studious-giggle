@@ -1,0 +1,14 @@
+{
+  "name": "studious-giggle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/colehansen/studious-giggle.git",
+  "author": "Cole Hansen <cole_hansen@brown.edu>",
+  "license": "MIT",
+  "scripts": {
+     "start": "node index.js"
+  }
+  "dependencies": {
+    "hapi": "^16.5.2"
+  }
+}
